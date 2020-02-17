@@ -9,3 +9,5 @@ This repository is for showing how Git and GitHub work
 
 hello heloo
 Writing moreSample website with plenty of files for demos
+
+###COPYRIGHT
